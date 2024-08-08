@@ -26,6 +26,14 @@ The request body should be in JSON format and include the following fields:
   "message": "Hello, this is a test message!"
 }
 ```
+**Response:**
+
+```json
+{
+  "message": "Email sent successfully"
+}
+```
+
 
 
 ## Set Up Environment Variables
